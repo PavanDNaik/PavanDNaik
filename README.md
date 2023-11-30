@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pavan and I'm a wanna-be Developer,and student from Canara Engineering College - Mangalore</p>
+<p align="left">My name is Pavan and I'm a wanna-be Developer and a student from Canara Engineering College - Mangalore</p>
 
 ###
 
