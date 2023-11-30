@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pavan and I'm a Student and wanna be Developer, from Canara Engineering College - Mangalore</p>
+<p align="left">My name is Pavan and I'm a wanna-be Developer,and student from Canara Engineering College - Mangalore</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning REACT JS<br>🎯 Goals: Full-Stack Web Development</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning REACT JS<br>🎯 Goals: Full-Stack Web Developer</p>
 
 ###
 
