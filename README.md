@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there! I'm Pavan, a wanna-be developer and student at Canara Engineering College - Mangalore.</p>
+<p align="left">Hey there! I'm Pavan, a full-stack developer and student at Canara Engineering College - Mangalore.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning REACT JS<br>🎯 Goals: Full-Stack Web Developer</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Typescript<br></p>
 
 ###
 
