@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Typescript<br></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript<br></p>
 <a href="https://pavannaik.vercel.app/" target="_blank">Portfolio</a>
 
 ###
